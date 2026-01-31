@@ -2,6 +2,7 @@
 
 ## About
 🚀 Software Engineer & Applied Research Associate
+
 Bridging the gap between user-centric research and robust backend architecture. With a background in both SE and QA, I approach development with a "test-driven, scale-ready" mindset.
 
 🛠 Currently Building: Intelligent systems involving RAG pipelines and AI-integrated workflows.
@@ -59,18 +60,6 @@ I believe great engineering is about more than writing elegant code—it's about
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 📧 [merubnshaikh@gmail.com](mailto:merubnshaikh@gmail.com)
-- 🌐 [Portfolio](https://yourportfolio.com) *(if you have one)*
-- 📱 312-914-4998
-
----
-
-### 📊 GitHub Stats
-
-![Merub's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
 
 ### 🔭 Currently Working On
 
