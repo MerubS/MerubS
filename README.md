@@ -1,8 +1,16 @@
 # Merub Shaikh — Building AI-Powered Solutions & Scalable Full-Stack Systems
 
 ## About
+🚀 Software Engineer & Applied Research Associate
+Bridging the gap between user-centric research and robust backend architecture. With a background in both SE and QA, I approach development with a "test-driven, scale-ready" mindset.
 
-I'm a Software Engineer and Master's student at Illinois Institute of Technology passionate about building intelligent systems that solve real problems. From architecting RAG pipelines and designing RESTful APIs to creating intuitive full-stack applications, I thrive at the intersection of AI, backend engineering, and developer experience. Currently working as an Applied Research Associate, translating user insights into accessible technology solutions.
+🛠 Currently Building: Intelligent systems involving RAG pipelines and AI-integrated workflows.
+
+📚 Academic: Pursuing an MS at Illinois Institute of Technology.
+
+🏆 Competitive Engineering: 2x Hackathon Champion. I thrive in high-stakes environments where rapid problem-solving is the baseline.
+
+Stack: Python, Java, TypeScript, RESTful Services, and LLM Orchestration.
 
 ## What I'm Passionate About
 
