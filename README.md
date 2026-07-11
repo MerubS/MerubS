@@ -58,7 +58,7 @@ I believe great engineering is about more than writing elegant code—it's about
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/merub-shaikh/)
 - 📧 [merubnshaikh@gmail.com](mailto:merubnshaikh@gmail.com)
 
 ### 🔭 Currently Working On
